@@ -1,0 +1,3 @@
+[submodule "SoftwareRepo"]
+	path = SoftwareRepo
+	url = git@github.com:wannastar/SoftwareRepo.git
